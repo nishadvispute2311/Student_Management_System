@@ -1,6 +1,3 @@
-# Student_Management_System
-
-
 # Student Management System
 
 The Student Management System is a web-based application developed using PHP, Laravel framework, MySQL, HTML, CSS, and JavaScript. The project follows the Model-View-Controller (MVC) architecture to provide an efficient and organized structure. This system aims to simplify student management for administrators and empower students to keep their profiles up-to-date.
